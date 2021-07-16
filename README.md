@@ -1,8 +1,8 @@
 Hi there 👋!
 
-My C++ proposals [here](https://github.com/Neargye/WG21)
+Сontacts: [linkedin](https://www.linkedin.com/in/neargye/) [twitter](https://twitter.com/Neargye) [telegram](https://t.me/neargye)
 
-My contacts: [linkedin](https://www.linkedin.com/in/neargye/) [twitter](https://twitter.com/Neargye) [telegram](https://t.me/neargye)
+My C++ proposals [here](https://github.com/Neargye/WG21)
 
 My patents [here](https://uspto.report/patent/search/Goncharov;%20Daniil%20Olegovich)
 
