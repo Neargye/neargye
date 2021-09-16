@@ -1,6 +1,8 @@
-Hi there 👋! I am a Senior C++ Developer at Ubisoft (ex Team Lead in a VR/AR Startup), try to make the С++ better together with [WG21 C++ Russia](https://stdcpp.ru/en/about).
+Hi there 👋!
 
-Сontacts: [linkedin](https://www.linkedin.com/in/neargye/) [twitter](https://twitter.com/Neargye) [telegram](https://t.me/neargye)
+Try to make the С++ better together with [WG21 C++ Russia](https://stdcpp.ru/en/about).
+
+Сontacts: <!--[linkedin](https://www.linkedin.com/in/neargye/)--> [twitter](https://twitter.com/Neargye) [telegram](https://t.me/neargye)
 
 My C++ proposals [here](https://github.com/Neargye/WG21)
 
