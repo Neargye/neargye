@@ -10,6 +10,5 @@ My patents [here](https://uspto.report/patent/search/Goncharov;%20Daniil%20Olego
 
 My favorite [conference talk](https://youtu.be/xgPuEv9sfmc), I will definitely post more and make new ones
 
-| [![Neargye's Github Stats](https://github-readme-stats.vercel.app/api?username=neargye&count_private=true&show_icons=true&theme=dark)](https://github.com/Neargye) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neargye&layout=compact&langs_count=3&theme=dark)](https://github.com/Neargye) |
+| [![Neargye's Github Stats](https://github-readme-stats.vercel.app/api?username=neargye&include_all_commits=true&count_private=true&show_icons=true&theme=dark)](https://github.com/Neargye) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neargye&layout=compact&langs_count=3&theme=dark)](https://github.com/Neargye) |
 |---|---|
-
